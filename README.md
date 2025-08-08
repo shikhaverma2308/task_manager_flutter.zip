@@ -1,3 +1,4 @@
+[Download ZIP of the main branch](https://github.com/shikhaverma2308/task_manager_flutter/archive/refs/heads/main.zip)
 # task_manager_flutter.zip
 # Task Manager Flutter
 
